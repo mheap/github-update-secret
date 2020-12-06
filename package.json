@@ -1,13 +1,12 @@
 {
   "name": "github-update-secret",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Update a GitHub Secret in all repos + org secrets",
   "main": "index.js",
   "bin": {
     "github-update-secret": "./bin.js"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "GitHub",
     "Actions",
