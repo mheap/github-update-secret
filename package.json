@@ -18,7 +18,7 @@
     "@octokit/rest": "^18.0.12",
     "debug": "^4.3.1",
     "octokit-fetch-all-repos": "^1.0.4",
-    "tweetsodium": "^0.0.5",
+    "tweetsodium": "^0.0.6",
     "yargs": "^16.2.0"
   }
 }
